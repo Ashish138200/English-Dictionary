@@ -1,7 +1,7 @@
 import json
 from difflib import get_close_matches
 
-data = json.load(open("Voacb.json"))
+data = json.load(open("Vocab.json"))
 
 
 def translate(w):
