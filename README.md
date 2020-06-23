@@ -1,4 +1,7 @@
 # English-Dictionary
+![Alt Text](https://img.shields.io/badge/Python-3.7.4-red)
+![Alt Text](https://img.shields.io/badge/MySQL-8.0-orange)
+![Alt Text](https://img.shields.io/badge/JSON-2019--09-lightgrey)<br/>
 English dictionary program in python for your own use
 
 * [Appv1.py](https://github.com/Ashish138200/English-Dictionary/blob/master/app-v1.py) is without a interface
